@@ -1,5 +1,5 @@
 # 프로젝트 개요
-이 프로젝트는 기본적인 웹 기술(HTML, JavaScript)을 사용해 만든 점심 메뉴 추천기입니다.
+이 프로젝트는 기본적인 웹 기술(HTML, JavaScript)을 사용해 만든 점심 메뉴 추천기입니다.    
 사용자가 맵기 정도, 예산, 음식 종류, 그리고 기분을 입력하면, 해당 정보를 기반으로 점심 메뉴를 추천해주는 기능을 제공합니다.
 
 # 주요 기능
@@ -13,7 +13,7 @@
 <img width="1465" height="725" alt="image" src="https://github.com/user-attachments/assets/64e14eed-8538-4c77-9ca2-65985ba844de" />
 
 # 배운 점 & 회고
-- HTML 폼 요소: <select>, <input type="range">, radio 등 다양한 폼 요소를 사용해 사용자의 입력을 받는 방법을 배웠습니다.
+- HTML 폼 요소: select, input type range, radio 등 다양한 폼 요소를 사용해 사용자의 입력을 받는 방법을 배웠습니다.
 - JavaScript 이벤트 리스너: addEventListener를 사용해 슬라이더의 값 변경과 폼 제출에 반응하여 동적으로 웹 페이지를 조작하는 방법을 익혔습니다.
 - API 연동: fetch 함수를 이용해 외부 API를 호출하는 비동기 통신하는 방법을 경험했습니다.
 
